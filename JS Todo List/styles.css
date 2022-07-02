@@ -1,0 +1,46 @@
+#plus-icon {
+    height: 40px;
+    width: 40px;
+}
+#typeText {
+    height: 30px;
+    width: 300px;
+}
+
+#container {
+    background-color: lightblue;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.add-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    
+}
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.newTask {
+    align-items: center;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    margin-left: 108px;
+    margin-bottom: 5px;
+    border: 2px black solid;
+    border-radius: 3px;
+    background-color: white;
+    width: 200px;
+    padding: 5px 0 0 5px;
+}
